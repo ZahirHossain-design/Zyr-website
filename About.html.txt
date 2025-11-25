@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Us - Zyr Manpower & Staffing</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <h1>Zyr Manpower & Staffing</h1>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="about.html">About Us</a>
+            <a href="services.html">Services</a>
+            <a href="contact.html">Contact</a>
+        </nav>
+    </header>
+
+    <section>
+        <h2>About Us</h2>
+        <p>Zyr Manpower & Staffing specializes in providing highly skilled staff from India to the Middle East. We focus on quality, reliability, and compliance in recruitment for construction, logistics, healthcare, stores, brands like Al Baig, and marine sectors.</p>
+    </section>
+
+    <footer>
+        <p>Address: 64/H/3, Broad Street, Kolkata -700019, West Bengal, India</p>
+        <p>Phone: +91 9123916116 | Email: zahir@zyrinc.com</p>
+    </footer>
+</body>
+</html>

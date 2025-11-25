@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Zyr Manpower & Staffing</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header>
+    <h1>Zyr Manpower & Staffing</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="about.html">About</a>
+      <a href="services.html">Services</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <h2>Professional Staffing Solutions Across Industries</h2>
+    <p>Supplying skilled manpower from India to the Middle East in Construction, Healthcare, Logistics, Marine, and more.</p>
+    <img src="images/staffing1.jpg" alt="Staffing Services">
+  </section>
+
+  <section class="services-preview">
+    <h3>Our Expertise</h3>
+    <div class="service">
+      <img src="images/construction1.jpg" alt="Construction Staffing">
+      <p>Construction & Skilled Labor</p>
+    </div>
+    <div class="service">
+      <img src="images/healthcare1.jpg" alt="Healthcare Staffing">
+      <p>Healthcare Professionals</p>
+    </div>
+    <div class="service">
+      <img src="images/logistics1.jpg" alt="Logistics Staffing">
+      <p>Logistics & Warehouse Staff</p>
+    </div>
+    <div class="service">
+      <img src="images/marine1.jpg" alt="Marine Recruitment">
+      <p>Marine & Seamen Recruitment</p>
+    </div>
+  </section>
+
+  <footer>
+    <p>Contact us: +91 9123916116 | zahir@zyrinc.com</p>
+    <p>Address: 64/H/3, Broad Street, Kolkata -700019, West Bengal, India</p>
+  </footer>
+</body>
+</html>

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Services - Zyr Manpower & Staffing</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <h1>Zyr Manpower & Staffing</h1>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="about.html">About Us</a>
+            <a href="services.html">Services</a>
+            <a href="contact.html">Contact</a>
+        </nav>
+    </header>
+
+    <section>
+        <h2>Our Services</h2>
+        <ul>
+            <li>Construction Staffing</li>
+            <li>Logistics & Warehousing</li>
+            <li>Healthcare Professionals</li>
+            <li>Marine / Seamen Recruitment</li>
+            <li>Store & Brand Staff (Al Baig and others)</li>
+        </ul>
+        <img src="images/logistics1.jpg" alt="Logistics Staffing">
+        <img src="images/marine1.jpg" alt="Marine Recruitment">
+    </section>
+
+    <footer>
+        <p>Address: 64/H/3, Broad Street, Kolkata -700019, West Bengal, India</p>
+        <p>Phone: +91 9123916116 | Email: zahir@zyrinc.com</p>
+    </footer>
+</body>
+</html>
